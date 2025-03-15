@@ -1,0 +1,14 @@
+# Ignore API keys
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments (if any)
+venv/
+rag_env/
+
+# Ignore Streamlit cache
+.streamlit/
